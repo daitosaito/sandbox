@@ -6,6 +6,8 @@
  * Released under the MIT license.
  */
 
+// こんにちは！
+
 (function(window, undefined) {
 
 // ECMA-262 5th edition Functions
